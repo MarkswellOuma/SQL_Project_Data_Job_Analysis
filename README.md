@@ -63,7 +63,7 @@ Companies span different industries, including social media (Pinterest), telecom
 There is a diverse range of job titles, from "Data Analyst" to more senior roles like "Director of Analytics" and "Associate Director- Data Insights."
 The titles reflect different levels of responsibility, with some roles focused on general data analysis, while others involve leadership in data strategy and insights.
 
-![Top Paying Roles](Assets/1_top_paying_roles.png.png)
+![Top Paying Roles](Assets/1_top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 saries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ![Top Paying Roles](Assets/job_titles_by_company.png)
