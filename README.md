@@ -3,7 +3,7 @@ The field of data analytics continues to grow in importance as organizations inc
 
 SQL queries? Check them out her:
 
-[project_sql_folder](C:\Users\Admin\SQL_Project_Data_Job_Analysis\project_sql)
+[project_sql_folder](project_sql)
 
 # Background
 In today's competitive job market, data analysts must stay ahead by focusing on skills that are both in demand and financially rewarding. Remote work has expanded opportunities, allowing professionals to access high-paying roles regardless of location. However, the landscape is complex, with varying salary levels depending on specific skills, industries, and job roles. This project seeks to demystify the job market for data analysts by analyzing job postings, identifying the highest-paying roles, and determining which skills are most valued by employers. The goal is to provide actionable insights for data analysts looking to maximize their career potential.
@@ -63,10 +63,10 @@ Companies span different industries, including social media (Pinterest), telecom
 There is a diverse range of job titles, from "Data Analyst" to more senior roles like "Director of Analytics" and "Associate Director- Data Insights."
 The titles reflect different levels of responsibility, with some roles focused on general data analysis, while others involve leadership in data strategy and insights.
 
-![Top Paying Roles](Assets\1_top_paying_roles.png.png)
+![Top Paying Roles](Assets/1_top_paying_roles.png.png)
 *Bar graph visualizing the salary for the top 10 saries for data analysts; ChatGPT generated this graph from my SQL query results*
 
-![Top Paying Roles](Assets\job_titles_by_company.png)
+![Top Paying Roles](Assets/job_titles_by_company.png)
 *Bar graph visualizing the number of job titles for the top 10 companies for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2.Top Paying Job skills
@@ -110,7 +110,7 @@ Here are the Insights
 - Skills related to data manipulation and analysis, such as **Pandas, Excel, and Snowflake**, are also highly valued.
 - Cloud-based tools like **Azure** and **AWS** are increasingly important, indicating a trend towards cloud computing in data roles.
 
-![Top Paying Job Skills](Assets\top_paying_job_skills.png)
+![Top Paying Job Skills](Assets/top_paying_job_skills.png)
 *Here is a graph illustrating the demand for various skills in top-paying jobs. The bar chart shows that SQL and Python are the most sought-after skills, followed by Tableau and other data-related tools and technologies. This visual representation highlights the skills that are most critical for landing high-paying roles in the data industry*
 
 
@@ -147,7 +147,7 @@ Here are the insights
 - **Versatility is Key:** The top-demanded skills span across different areas—database management (SQL), general data manipulation (Excel), programming (Python), and data visualization (Tableau, Power BI). This suggests that employers are looking for versatile data professionals who can handle various aspects of data work.
 
 
-![Top Demanded Skills](Assets\top_demanded_skill.png)
+![Top Demanded Skills](Assets/top_demanded_skill.png)
 *Here is the graph showing the demand for various skills, with SQL being the most in-demand skill, followed by Excel, Python, Tableau, and Power BI. This visualization highlights the key skills that are highly sought after in the job market.*
 
 ### 4 Top Skills Based on Salary
