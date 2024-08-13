@@ -23,7 +23,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 # The Analysis
 Each query on this project aimed at investigating specific aspects of the data analyst job market.
 
-Here is how I approache each question:
+Here is how I approached each question:
 
 ### 1.Top Paying Data analyst jobs
 To identify the highest-paying roles I filtred data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
